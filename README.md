@@ -43,3 +43,8 @@
 * 深度學習簡介
 	* 傳統跟深度學習程式的差別
 	* teachable machine 範例
+
+## 其他教學
+
+* [蔡炎龍－成為python數據分析達人的第一門課](https://ctld.video.nccu.edu.tw/km/1399)
+* [蔡炎龍－Python實現人工智慧](https://ctld.video.nccu.edu.tw/km/1172)
