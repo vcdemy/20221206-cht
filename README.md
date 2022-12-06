@@ -2,6 +2,8 @@
 
 ## 投影片及相關連結：
 
+* [Python安裝說明](https://docs.google.com/presentation/d/1TblGWFI4PjgHZwCPXMqwIRS7LhAMjAb_BehB1J1uZ_4/edit?usp=sharing)
+* [機器學習/深度學習簡介](https://docs.google.com/presentation/d/1k8KY-j9sopuBr9wqaaG_EBH-3kbhP1t_CPwBkVWY7c8/edit?usp=sharing)
 * [政府資料開放平台](https://data.gov.tw/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
